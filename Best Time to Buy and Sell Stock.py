@@ -11,7 +11,10 @@ def maxProfit(prices: list) -> int:
     # TIME: O(N^2)
     # SPACE: O(1)
 
-
+""" Adding 2 new lines of 
+asdasdasd
+asdsda
+comment """
 def maxProfit2(prices: list) -> int:
 
     if len(prices) == 2 and prices[1] <= prices[0]: return 0

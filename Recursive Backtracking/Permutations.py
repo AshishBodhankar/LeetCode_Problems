@@ -1,4 +1,9 @@
-def permute(nums: list):
+def permute(nums: list) -> list:
+    """
+
+    :param nums: list of integers
+    :return: nested list
+    """
     n = len(nums)
     res, sol = [],[]
 

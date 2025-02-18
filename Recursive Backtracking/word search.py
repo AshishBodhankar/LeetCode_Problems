@@ -8,7 +8,8 @@ def exist(board: list,word:str ) -> bool:
     n = len(board[0]) # total no. of columns
     W = len(word) # len of the word to search in the grid
 
-    def backtrack(pos: (int,int),index: int):
+    def backtrack(pos: (int,int),index: int) -> bool:
+
         i,j = pos
 
         if index == W:

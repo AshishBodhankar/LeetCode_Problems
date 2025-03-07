@@ -1,7 +1,6 @@
-total 0
-drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 .
-drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:16 ..
-drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 .git
+drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 17:23 .
+drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 17:10 ..
+drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 17:28 .git
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 .idea
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Arrays & Strings
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Dynamic Programming
@@ -9,9 +8,7 @@ drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Graphs
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Hashmaps & Sets
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Linked Lists
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 ML Engineer Meta
--rwxrwxrwx 1 ashish1406 ashish1406  68 Mar  7 00:17 README.md
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Recursive Backtracking
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Sliding Window
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Trees
 drwxrwxrwx 1 ashish1406 ashish1406 512 Mar  7 00:17 Two Pointers
--rwxrwxrwx 1 ashish1406 ashish1406   0 Mar  7 00:18 test2.txt

@@ -134,6 +134,7 @@ print(mergeSort([1,24,14,22,23,26]))
 
 def findKthPositive( arr: list, k: int) -> int :
     left, right = 0, len(arr) - 1
+    left, right = 0, len(arr) - 1
     while left <= right :
         # print(left, right)
         pivot = left + (right - left) // 2
